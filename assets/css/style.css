@@ -79,3 +79,41 @@ main .card {
 #sect-about p{
     margin: 0px 20px;
 }
+
+/* Work card */
+.work-space img {
+    width: 100%;
+    height: 100%;
+}
+.work-card{
+    border: 1px solid black;
+    width: 90%;
+    margin: 10px auto;
+    position: relative;
+    width: 200px;
+    height: 100px;
+}
+.description{
+    background-color: lightblue;
+    position: absolute;
+    bottom:0px;
+    left:0px;
+    border: 1px solid black;
+    border-bottom: none;
+}
+.description h3,p{
+    margin: 0px;
+    padding: 0px 5px;
+    font-size: .8em;
+}
+#work-main{
+    width:290px;
+    height: 170px;
+}
+#sect-work a{
+    color:black;
+}
+.work-card:hover ,#work-main:hover{
+    border: 1px solid darkblue;
+    box-shadow: 1px 1px 5px darkblue, -1px -1px 5px darkblue;
+}
