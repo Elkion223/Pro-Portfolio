@@ -17,3 +17,7 @@ You only need google chrome for there is nothing extra to add
 ## Usage
 
 https://elkion223.github.io/Pro-Portfolio/ This is where you can find my Portfolio.
+
+## Credits 
+
+UCB Bootcamp for teaching me about HTML and CSS
